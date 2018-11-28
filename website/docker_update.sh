@@ -1,0 +1,1 @@
+docker build -t maayanlab/L1000NGS .; docker push maayanlab/L1000NGS;

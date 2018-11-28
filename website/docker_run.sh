@@ -1,0 +1,1 @@
+docker build -t maayanlab/L1000NGS .; docker run -it -p 5000:5000 maayanlab/L1000NGS;
